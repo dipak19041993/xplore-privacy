@@ -23,4 +23,4 @@ The terms and conditions outline the rules and regulations for using the Xplore 
 
 ## Usage
 
-To view the privacy policy and terms of service, simply open the `https://dipak19041993.github.io/xplore-privacy/` file in a web browser. This will provide you with the detailed information regarding our policies.
+To view the privacy policy and terms of service, simply open the `[index.html]` file in a web browser. This will provide you with the detailed information regarding our policies.
